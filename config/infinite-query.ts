@@ -1,0 +1,1 @@
+export const INFITINE_QUEYR_LIMIT = 10
